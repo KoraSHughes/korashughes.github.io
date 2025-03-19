@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Kora S. Hughes
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kora
+last_name: Hughes
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📝
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,62 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Carnegie Mellon University
+    url: https://www.ece.cmu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kshughes@andrew.cmu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/KoraSHughes
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/KoraSHughes
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=a87L0ukAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9561-0359
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Neurostimulation
+  - Healthcare
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Electrical and Computer Engineering
+    institution: Carnegie Mellon University
+    date_start: 2025-01-01
+    date_end: 2029-12-31
+    summary: |
+      **[GEM Fellow](https://www.gemfellowship.org/)**\
+      Working on optimization of non-invasive neurostimulation with applications in neurorobotics and neuralprosthesis.
+  - area: MS Computer Science
+    institution: New York University, Tandon School of Engineering
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track, GPA: 3.8/4.0\
+      Researched large language models in assistive and generative coding practices for applications in the elctronic design automation space. Partnered with Synopsys industry experts to develop a benchmarking schema and database for my thesis.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      url: 'https://www.proquest.com/docview/3059107595?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
+  - area: BS Computer Science, Minor Mathematics
+    institution: New York University, Tandon School of Engineering
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students), GPA: 3.7/4.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
