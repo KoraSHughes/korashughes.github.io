@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        At heart, I am a data scientist interested in applying ML models toward cyberphysical systems interfacing with human health. With the help of my coadvisors <a href="https://users.ece.cmu.edu/~pgrover/lab.html">Pulkit Grover</a> and <a href="https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a>, my research has centered around leveraging neurostimulation to make the interaction with and manipulation of brain-machine interfaces like neuroprosthetics more robust and versatile.
+        At heart, I am a data scientist interested in applying ML models toward cyberphysical systems interfacing with human health. With the help of my coadvisors <a href="https://users.ece.cmu.edu/~pgrover/lab.html">Pulkit Grover</a> and <a href="https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a>, my research is centered around leveraging neurostimulation to make the interaction with and manipulation of brain-machine interfaces like neuroprosthetics more robust and versatile.
 
         I hope to develop a range of qualitative and quantitative methods to bolster the role of neural data and other biometrics in human-robot interaction and healthcare.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
