@@ -110,29 +110,3 @@ renders as
 ```html
 <mark>Highlighted text</mark>
 ```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
