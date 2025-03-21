@@ -1,4 +1,4 @@
-# Navigation Links
+# Navigation Links (TODO: swap projects and teaching due to formatting)
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
@@ -10,18 +10,21 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
   - name: Experience
     url: experience/
     weight: 20
+  - name: Awards
+    url: experience/#awards
+    weight: 21
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+  # - name: Teaching
+  #   url: teaching/
+  #   weight: 30
+  # - name: Talks
+  #   url: /#talks
+  #   weight: 12
+  # - name: News
+  #   url: /#news
+  #   weight: 13
