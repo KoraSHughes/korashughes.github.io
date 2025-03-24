@@ -5,11 +5,11 @@ date: 2022-11-24
 type: docs
 math: false
 tags:
-  - Python
   - Machine Learning
   - Computer Vision
   - Natural Language Processing
   - Classification
+  - Python
 image:
   caption: 'Visualization of Sign Correction'
 ---

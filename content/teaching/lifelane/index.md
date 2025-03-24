@@ -5,8 +5,9 @@ date: 2024-04-20
 type: docs
 math: false
 tags:
-  - Python
+  - Machine Learning Visualization
   - Data Science
+  - Python
 image:
   caption: 'Visualization of EMS Dispatch'
 ---

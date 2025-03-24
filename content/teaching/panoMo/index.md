@@ -5,10 +5,9 @@ date: 2023-04-24
 type: docs
 math: false
 tags:
-  - Python
-  - Computer Vision
+  - Computer Vision & Augmented Reality
   - Object Detection
-  - Augmented Reality
+  - Python
 image:
   caption: 'Panoramic Stitching Example'
 ---

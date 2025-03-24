@@ -5,9 +5,9 @@ date: 2024-04-24
 type: docs
 math: false
 tags:
+  - Simulation
   - Python
   - HTML
-  - Simulation
 image:
   caption: 'Website Frontend Example with Matching Visualization'
 ---
