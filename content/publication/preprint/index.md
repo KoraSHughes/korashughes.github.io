@@ -1,8 +1,8 @@
 ---
-title: "A Dataset for Benchmarking for Large Language Model-Generated Software Assertions"
+title: "An example preprint / working paper"
 authors:
 - admin
-date: "2024-05-07T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -11,36 +11,38 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["thesis"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "A Dataset for Benchmarking for Large Language Model-Generated Software Assertions"
-publication_short: "Benchmarking LLM-Generated Software Assertions"
+publication: ""
+publication_short: ""
 
-abstract: Software assertions play a critical role in the creation of test benches and the overall verification of systems. In the case of formal property verification, complex design specifications are interpreted by industry experts and translated into System Verilog Assertions (SVA). Recent research has pointed toward large language models as a potential tool for SVA generation, however, lack of data and standardization of software assertions has resulted in mixed results amongst methods of evaluations. Thus, this paper proposes a dataset of code and natural language data containing assertions in SystemVerilog and Python that can be used to train and test future collaborative coding models. Additionally, this paper provides a preliminary analysis and novel schema for the consistent generation of quality software assertions with OpenAI’s GPT-4.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Software assertions play a critical role in the creation of test benches and formal property verifiction. Thus, this paper proposes a dataset of code and natural language data containing assertions in SystemVerilog and Python that can be used to train and test future collaborative coding models. Additionally, this paper provides a preliminary analysis and novel schema for the consistent generation of quality software assertions with OpenAI’s GPT-4.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Large Language Models
-- Generative AI
 
 featured: true
 
 links:
 - name: Custom Link
-  url: https://www.proquest.com/docview/3059107595?%20Theses&sourcetype=Dissertations%20
-url_pdf: 'https://media.proquest.com/media/hms/PFT/2/YJ3ZY?cit%3Aauth=Hughes%2C+Kora+S.&cit%3Atitle=A+Dataset+for+Benchmarking+for+Large+Language+Model-Generated+Software+Assertions&cit%3Apub=ProQuest+Dissertations+and+Theses&cit%3Avol=&cit%3Aiss=&cit%3Apg=&cit%3Adate=2024&ic=true&cit%3Aprod=ProQuest+Dissertations+%26+Theses+Global&_a=ChgyMDI1MDIyNjE5NTA1MzM1NTo1OTY4MDQSBjEwNzI3ORoKT05FX1NFQVJDSCIMNzIuOTUuMjIyLjEwKgUxODc1MDIKMzA1OTEwNzU5NToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDI0LzAxLzAxcgoyMDI0LzEyLzMxegCCASRQLTEwMTAyNjgtOTkwMi1DVVNUT01FUi1udWxsLTcwOTY2NDGSAQZPbmxpbmXKAXVNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMyLjAuMC4wIFNhZmFyaS81MzcuMzbSARZEaXNzZXJ0YXRpb25zICYgVGhlc2VzmgIHUHJlUGFpZKoCK09TOkVNUy1NZWRpYUxpbmtzU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAhNEaXNzZXJ0YXRpb24vVGhlc2lz0gIBWfICAPoCAU6CAwNXZWKKAxxDSUQ6MjAyNTAyMjYxOTUwNTMzNTU6NDMzMzUx&_s=IjoE6arNW%2BDPSTcKusDsdG9%2F%2B9M%3D'
-url_code: 'https://github.com/KoraSHughes/LLMCodeGen'
-url_dataset: 'https://github.com/KoraSHughes/LLMCodeGen'
-# url_poster: '#'
-# url_project: ''
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image of Query Schema for Superivzed Validation of Assertions'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
