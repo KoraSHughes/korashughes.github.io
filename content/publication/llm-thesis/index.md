@@ -28,10 +28,11 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: https://www.proquest.com/docview/3059107595?%20Theses&sourcetype=Dissertations%20
-url_pdf: 'https://media.proquest.com/media/hms/PFT/2/YJ3ZY?cit%3Aauth=Hughes%2C+Kora+S.&cit%3Atitle=A+Dataset+for+Benchmarking+for+Large+Language+Model-Generated+Software+Assertions&cit%3Apub=ProQuest+Dissertations+and+Theses&cit%3Avol=&cit%3Aiss=&cit%3Apg=&cit%3Adate=2024&ic=true&cit%3Aprod=ProQuest+Dissertations+%26+Theses+Global&_a=ChgyMDI1MDIyNjE5NTA1MzM1NTo1OTY4MDQSBjEwNzI3ORoKT05FX1NFQVJDSCIMNzIuOTUuMjIyLjEwKgUxODc1MDIKMzA1OTEwNzU5NToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDI0LzAxLzAxcgoyMDI0LzEyLzMxegCCASRQLTEwMTAyNjgtOTkwMi1DVVNUT01FUi1udWxsLTcwOTY2NDGSAQZPbmxpbmXKAXVNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMyLjAuMC4wIFNhZmFyaS81MzcuMzbSARZEaXNzZXJ0YXRpb25zICYgVGhlc2VzmgIHUHJlUGFpZKoCK09TOkVNUy1NZWRpYUxpbmtzU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAhNEaXNzZXJ0YXRpb24vVGhlc2lz0gIBWfICAPoCAU6CAwNXZWKKAxxDSUQ6MjAyNTAyMjYxOTUwNTMzNTU6NDMzMzUx&_s=IjoE6arNW%2BDPSTcKusDsdG9%2F%2B9M%3D'
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
 url_code: 'https://github.com/KoraSHughes/LLMCodeGen'
 url_dataset: 'https://github.com/KoraSHughes/LLMCodeGen'
 url_poster: ''
