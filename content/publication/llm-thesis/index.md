@@ -34,11 +34,11 @@ links:
 url_pdf: 'https://media.proquest.com/media/hms/PFT/2/YJ3ZY?cit%3Aauth=Hughes%2C+Kora+S.&cit%3Atitle=A+Dataset+for+Benchmarking+for+Large+Language+Model-Generated+Software+Assertions&cit%3Apub=ProQuest+Dissertations+and+Theses&cit%3Avol=&cit%3Aiss=&cit%3Apg=&cit%3Adate=2024&ic=true&cit%3Aprod=ProQuest+Dissertations+%26+Theses+Global&_a=ChgyMDI1MDIyNjE5NTA1MzM1NTo1OTY4MDQSBjEwNzI3ORoKT05FX1NFQVJDSCIMNzIuOTUuMjIyLjEwKgUxODc1MDIKMzA1OTEwNzU5NToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDI0LzAxLzAxcgoyMDI0LzEyLzMxegCCASRQLTEwMTAyNjgtOTkwMi1DVVNUT01FUi1udWxsLTcwOTY2NDGSAQZPbmxpbmXKAXVNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMyLjAuMC4wIFNhZmFyaS81MzcuMzbSARZEaXNzZXJ0YXRpb25zICYgVGhlc2VzmgIHUHJlUGFpZKoCK09TOkVNUy1NZWRpYUxpbmtzU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAhNEaXNzZXJ0YXRpb24vVGhlc2lz0gIBWfICAPoCAU6CAwNXZWKKAxxDSUQ6MjAyNTAyMjYxOTUwNTMzNTU6NDMzMzUx&_s=IjoE6arNW%2BDPSTcKusDsdG9%2F%2B9M%3D'
 url_code: 'https://github.com/KoraSHughes/LLMCodeGen'
 url_dataset: 'https://github.com/KoraSHughes/LLMCodeGen'
-url_poster: '#'
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
