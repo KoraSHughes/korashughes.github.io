@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Project
+summary: My projects
 type: landing
 
 cascade:
