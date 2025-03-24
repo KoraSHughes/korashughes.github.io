@@ -33,6 +33,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url_pdf: 'https://www.proquest.com/docview/3059107595?%20Theses&sourcetype=Dissertations%20'
 url_code: 'https://github.com/KoraSHughes/LLMCodeGen'
 url_dataset: 'https://github.com/KoraSHughes/LLMCodeGen'
 url_poster: ''
