@@ -7,6 +7,8 @@ math: false
 tags:
   - Python
   - Computer Vision
+  - Object Detection
+  - Augmented Reality
 image:
   caption: 'Panoramic Stitching Example'
 ---

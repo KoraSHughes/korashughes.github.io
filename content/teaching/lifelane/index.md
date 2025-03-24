@@ -1,7 +1,7 @@
 ---
-title: LifeLaneOne
+title: LifeLane
 summary: Improving NYC EMS Response Time Through Data Visualization
-date: 2024-04-24
+date: 2024-04-20
 type: docs
 math: false
 tags:
