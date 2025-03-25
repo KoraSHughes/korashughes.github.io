@@ -1,5 +1,5 @@
 ---
-title: Sign-To-Speach
+title: Sign-To-Speech
 summary: Automated American Sign Language Learning & Identification
 date: 2022-11-24
 type: docs
