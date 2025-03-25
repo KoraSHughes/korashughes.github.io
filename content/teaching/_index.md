@@ -1,5 +1,5 @@
 ---
-title: Project
+title: All-Projects
 summary: My projects
 type: landing
 
