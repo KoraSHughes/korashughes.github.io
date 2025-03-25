@@ -75,7 +75,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students), GPA: 3.7/4.0
+      Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students), cum laude
 work:
   - position: Machine Learning Research Intern
     company_name: Synopsys
