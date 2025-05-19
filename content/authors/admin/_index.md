@@ -65,8 +65,8 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track\
-      Researched generative AI architectures applicable to chip design and verification. Partnered with Synopsys industry experts to develop a benchmarking database and schema for large language model-assisted coding with applications in elctronic design automation.
+      **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track
+      Researched large language models in assistive and generative coding practices for applications in the elctronic design automation space. Partnered with Synopsys industry experts to develop a benchmarking schema and database for my thesis.
     button:
       text: 'Read Thesis'
       url: 'https://www.proquest.com/docview/3059107595?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
