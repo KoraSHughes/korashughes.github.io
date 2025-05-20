@@ -58,15 +58,15 @@ education:
     date_start: 2025-01-01
     date_end: 2029-12-31
     summary: |
-      **[GEM Fellow](https://www.gemfellowship.org/)**\
+      **[GEM Fellow](https://www.gemfellowship.org/)**, GPA: 4.0/4.0\
       Working on optimization of non-invasive neurostimulation with applications in neurorobotics and neuralprosthesis.
   - area: MS Computer Science
     institution: New York University, Tandon School of Engineering
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track, GPA: 3.8/4.0\
-      Researched large language models in assistive and generative coding practices for applications in the elctronic design automation space. Partnered with Synopsys industry experts to develop a benchmarking schema and database for my thesis.
+      **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track\
+      Researched generative AI architectures applicable to chip design and verification. Partnered with Synopsys industry experts to develop a benchmarking database and schema for large language model-assisted coding with applications in elctronic design automation.
     button:
       text: 'Read Thesis'
       url: 'https://www.proquest.com/docview/3059107595?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
@@ -75,7 +75,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students), cum laude
+      Cum Laude, Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students)
 work:
   - position: Machine Learning Research Intern
     company_name: Synopsys
