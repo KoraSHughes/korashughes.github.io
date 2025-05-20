@@ -58,14 +58,14 @@ education:
     date_start: 2025-01-01
     date_end: 2029-12-31
     summary: |
-      **[GEM Fellow](https://www.gemfellowship.org/)**, GPA: 4.0/4.0\
-      Working on optimization of non-invasive neurostimulation with applications in neurorobotics and neuroprosthesis.
+      **[GEM Fellow](https://www.gemfellowship.org/)**\
+      Working on optimization of non-invasive neurostimulation with applications in neurorobotics and neuralprosthesis.
   - area: MS Computer Science
     institution: New York University, Tandon School of Engineering
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track
+      **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track, GPA: 3.8/4.0\
       Researched large language models in assistive and generative coding practices for applications in the elctronic design automation space. Partnered with Synopsys industry experts to develop a benchmarking schema and database for my thesis.
     button:
       text: 'Read Thesis'
