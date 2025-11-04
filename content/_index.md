@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: View CV
+        text: View Resume
         url: https://docs.google.com/document/d/1HrtfWwI153WX1UtNxkRJzRZ9ZC9D8AehBAdq7alomfQ/edit?tab=t.0
     design:
       css_class: dark
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research 📚'
       subtitle: ''
       text: |-
         At heart, I am a data scientist interested in applying ML and statistical models toward cyberphysical systems interfacing with human health. With the help of my coadvisors <a href="https://users.ece.cmu.edu/~pgrover/lab.html">Pulkit Grover</a> and <a href="https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a>, my research is centered around leveraging neurostimulation to make the interaction with and manipulation of brain-machine interfaces like neuroprosthetics more robust and versatile.

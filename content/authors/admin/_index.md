@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/KoraSHughes
   - icon: brands/linkedin
-    url: https://www.linkedin.com/KoraSHughes
+    url: https://www.linkedin.com/in/KoraSHughes/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=a87L0ukAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Robotics
-  - Neurostimulation
+  - Neuroengineering
   - Healthcare
 
 education:
@@ -62,8 +62,8 @@ education:
       Working on optimization of non-invasive neurostimulation with applications in neurorobotics and neuralprosthesis.
   - area: MS Computer Science
     institution: New York University, Tandon School of Engineering
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09-02
+    date_end: 2024-05-16
     summary: |
       **[GEM Fellow](https://www.gemfellowship.org/)**, BS/MS Track\
       Researched generative AI architectures applicable to chip design and verification. Partnered with Synopsys industry experts to develop a benchmarking database and schema for large language model-assisted coding with applications in elctronic design automation.
@@ -72,8 +72,8 @@ education:
       url: 'https://www.proquest.com/docview/3059107595?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
   - area: BS Computer Science, Minor Mathematics
     institution: New York University, Tandon School of Engineering
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-09-01
+    date_end: 2023-05-17
     summary: |
       Cum Laude, Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students)
 work:
@@ -323,5 +323,5 @@ awards:
 
 ## About Me
 
-Kora Hughes is a PhD student of Electrical and Computer Engineering and GEM Fellow at Carnegie Mellon University. Her research interests lie at the intersection of machine learning, human health, and robotic control.
+Kora Hughes is a PhD student of Electrical and Computer Engineering and <a href="https://www.gemfellowship.org">GEM Fellow</a> at Carnegie Mellon University. Her research interests lie at the intersection of machine learning, human health, and robotic control.
 She currently works out of the <a href="https://users.ece.cmu.edu/~pgrover/lab.html">∀ (For All)</a> and <a href="https://www.meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html">NeuroMechatronics</a> Labs where she is investigating the optimization of non-invasive electrical stimulation models toward closed-loop neurofeedback in prosthetic control. 
