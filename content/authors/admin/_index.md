@@ -49,8 +49,9 @@ profiles:
 interests:
   - Artificial Intelligence
   - Health Sensing
-  - Neuroengineering
-  - Robotics
+  - Neural Engineering
+  - Wearables & Robotics
+  - Extended Reality
 
 education:
   - area: PhD Electrical and Computer Engineering
@@ -323,5 +324,5 @@ awards:
 
 ## About Me
 
-Kora Hughes is a PhD student of Electrical and Computer Engineering and <a href="https://www.gemfellowship.org">GEM Fellow</a> at Carnegie Mellon University. Her research interests lie at the intersection of machine learning, human health, and cyberphysical systems.
+Kora Hughes is a PhD student of Electrical and Computer Engineering, <a href="https://www.gemfellowship.org">GEM Fellow</a>, and <a href="https://www.ninds.nih.gov/funding/training-career-development/institutional-grants/ninds-institutional-research-training-program">NIH Trainee</a> at Carnegie Mellon University. Her research interests lie at the intersection of machine learning, human health, and cyberphysical systems.
 She currently works out of the <a href="https://users.ece.cmu.edu/~pgrover/lab.html">∀ (For All)</a> and <a href="https://www.meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html">NeuroMechatronics</a> Labs where she is investigating the optimization of non-invasive electrical stimulation models toward closed-loop neurofeedback in prosthetic control. 
