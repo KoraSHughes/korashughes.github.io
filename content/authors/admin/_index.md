@@ -214,6 +214,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Neural Interface Trainee Award
+    url: https://www.cmu.edu/nit32/about.html/
+    date: '2025-09-01'
+    awarder: NIH
+    summary: Awarded through research proposal and application process.
+
   - title: GEM Engineering and Science PhD Fellowship
     url: https://www.gemfellowship.org/
     # icon: coursera
