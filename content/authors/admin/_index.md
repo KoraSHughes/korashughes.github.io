@@ -215,7 +215,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Interface Trainee Award
-    url: https://www.cmu.edu/nit32/about.html
+    url: https://www.cmu.edu/nit32/about.html/
     date: '2025-09-01'
     awarder: NIH
     summary: Awarded through research proposal and application process.
