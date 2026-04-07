@@ -11,7 +11,7 @@ tags:
 image:
   caption: 'Website Frontend Example with Matching Visualization'
 ---
-You can find the source code at this [Project Repository](https://github.com/KoraSHughes/DataLife). Additionally, if you'd like to read about the results you can do so at this [Paper Link](https://www.linkedin.com/in/korashughes/overlay/projects/1718055728/multiple-media-viewer/?profileId=ACoAACxKCksBh6wjUYljhR2o3ZDphg629ZP3Pnk&treasuryMediaId=1718913347224).
+You can find the source code at this [Project Repository](https://github.com/KoraSHughes/DataLife). Additionally, if you'd like to read about the results you can do so at this [Paper Link](https://github.com/KoraSHughes/DataLife/blob/main/Project%20report.pdf).
 
 ## Brief Description
 
