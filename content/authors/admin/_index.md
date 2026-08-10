@@ -78,6 +78,15 @@ education:
     summary: |
       Cum Laude, Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students)
 work:
+  - position: AIML Research Intern
+    company_name: Apple
+    company_url: 'https://machinelearning.apple.com/'
+    company_logo: ''
+    date_start: 2026-05-18
+    date_end: 2026-09-25
+    summary: |2-
+      - Machine Intelligence and Neural Design (TBD).
+
   - position: Machine Learning Research Intern
     company_name: Synopsys
     company_url: 'https://www.synopsys.com/'
