@@ -7,7 +7,7 @@ title: 'Optimized Transnasal Electrical Stimulation Using High-Density Electrode
 authors:
   - admin
 
-date: "2027-08-03T00:00:00Z"
+date: "2026-08-03T00:00:00Z"
 # doi: '10.2196/27597'
 
 # Schedule page publish date (NOT publication's date).
