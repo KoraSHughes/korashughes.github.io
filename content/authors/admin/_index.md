@@ -59,7 +59,7 @@ education:
     date_start: 2025-01-01
     date_end: 2029-12-31
     summary: |
-      **[GEM Fellow](https://www.gemfellowship.org/)**, GPA: 4.0/4.0\
+      **[GEM Fellow](https://www.gemfellowship.org/)**, **[NIH Trainee](https://reporter.nih.gov/project-details/11143216)**, GPA: 4.0/4.0\
       Working on optimization of non-invasive neurostimulation with applications in neurorobotics and neuralprosthesis.
   - area: MS Computer Science
     institution: New York University, Tandon School of Engineering
@@ -76,7 +76,7 @@ education:
     date_start: 2019-09-01
     date_end: 2023-05-17
     summary: |
-      Cum Laude, Dean's List, [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students)
+      Cum Laude, [Dean's List](https://engineering.nyu.edu/academics/undergraduate/nyu-tandon-school-engineering-deans-list), [NSF REU Fellow](https://engineering.nyu.edu/research/student-research/undergraduate-summer-research-program), [NYU Student Leadership Fellow](https://engineering.nyu.edu/office-research/tandon-fellowships-and-assistantships), [Cadence Technology Scholar](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-s-2023-diversity-in-technology-scholarship-awarded-to-28-students), [Accenture Leadership Fellow](https://www.accenture.com/us-en/careers/life-at-accenture/internships-students)
 work:
   - position: AIML Research Intern
     company_name: Apple
