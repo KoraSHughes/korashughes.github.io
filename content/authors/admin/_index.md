@@ -85,9 +85,10 @@ work:
     date_start: 2026-05-18
     date_end: 2026-09-25
     summary: |2-
-      - Designed, prototyped, and executed end-to-end HCI research study on adaptive digital wellbeing tools.
+      - Designed, prototyped, and executed end-to-end HCI research study (n>40) on adaptive digital wellbeing tools.
       - Translated research findings into sensor-fusion ensemble model adopted for internal features with publication in progress.
-      - Helped develop novel frameworks for integrating multimodal sensor data into foundation models.
+      - Helped develop novel, scalable frameworks for integrating multimodal sensor data into foundation models.
+
 
   - position: Machine Learning Research Intern
     company_name: Synopsys
